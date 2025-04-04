@@ -16,11 +16,8 @@ CSS3 – Styling and layout (Flexbox, Grid, Animations)
 
 ## 🔧 Installation & Usage
 Clone the repository:
-
-bash
-Copy
-Edit
 git clone https://github.com/your-username/Spotify-clone-page.git
+``
 Open index.html in your browser
 
 Enjoy the Spotify-inspired UI 🎶
